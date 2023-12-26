@@ -1,7 +1,5 @@
-[# Link](https://github.com/NatigAgarzayev/pomo.git)
-[Link to the website ->](https://natigagarzayev.github.io/pomo)
 
-## Available Scripts
+![Screenshot 2023-12-26 035643](https://github.com/estellale/bando-ra/assets/90506964/2cc72d6c-51c3-4614-8743-49bd8e01e8c4)
 
 In the project directory, you can run:
 
